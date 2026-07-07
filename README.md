@@ -35,10 +35,17 @@ This application demonstrates Bayesian Network inference using the Enumeration A
 
 **Requirements**
 *   Python 3
-
 Libraries:
 *   numpy
 *   pandas
 *   networkx
 *   matplotlib
+*   ipywidgets
+
+**Technologies**
+*   Python
+*   Jupyter Notebook
+*   Google Colab
+*   NetworkX
+*   Matplotlib
 *   ipywidgets
