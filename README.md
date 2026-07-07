@@ -11,12 +11,13 @@ Student: Gal Argov Sofer
 This application demonstrates Bayesian Network inference using the Enumeration Algorithm.
 
 **Features:**
-*   Interactive Bayesian Network
-*   Evidence selection
-*   Query selection
-*   Exact Enumeration
+*   Bayesian Network visualization
+*   Interactive evidence selection
+*   Query variable selection
+*   Exact Enumeration Algorithm
 *   Intermediate calculations
-*   Automatic normalization
+*   Joint probability computation
+*   Normalization
 *   Complexity analysis
 
 **How to Run**
